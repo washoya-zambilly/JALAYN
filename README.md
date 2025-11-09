@@ -1,4 +1,7 @@
-# 🚢 JALAYN <img src="assets/logo.png" alt="JALAYN Logo" width="40" align="right"/>
+### 🖥️ Interface Preview
+![JALAYN Preview](assets/preview.jpg)
+
+# 🚢 JALAYN <img src="assets/logo.png" alt="JALAYN Logo" width="100" align="right"/>
 
 
 # JALAYN 
@@ -92,3 +95,4 @@ hoping it can inspire others to explore, learn, and build upon open-source ideas
 🌊 About the Name
 
 The name comes from the Sanskrit word Jalayana, meaning “watercraft”, combined with “layn”, inspired by the word “line” — an essential element in ship design.
+
