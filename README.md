@@ -5,7 +5,7 @@
 
 
 # JALAYN 
-# Ver.01 
+# Ver.0.1 
 
 **JALAYN** is a personal experimental ship design tool built with **Python** and **Tkinter**.  
 It provides a simple interface for creating and managing ship body plans — including **stations**, **waterlines**, and **centerlines** — for hull form visualization and analysis.
@@ -97,6 +97,7 @@ hoping it can inspire others to explore, learn, and build upon open-source ideas
 🌊 About the Name
 
 The name comes from the Sanskrit word Jala which means water and Yana which means vehicle, meaning “watercraft”, combined with “layn”, inspired by the word “line” — an essential element in ship design.
+
 
 
 
