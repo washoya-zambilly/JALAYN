@@ -11,7 +11,8 @@
 It provides a simple interface for creating and managing ship body plans — including **stations**, **waterlines**, and **centerlines** — for hull form visualization and analysis.
 
 This is a **personal learning project**, developed as part of my journey to improve my programming skills while combining them with my passion for **naval architecture**.  
-I aim to keep improving and expanding JALAYN over time, making it as useful and accessible as possible for anyone interested in ship design.
+I aim to keep improving and expanding JALAYN over time, making it as useful and accessible as possible for anyone interested in ship design. 
+Selective assistance from AI tools was used to support code generation and problem solving.
 
 
 
@@ -97,6 +98,7 @@ hoping it can inspire others to explore, learn, and build upon open-source ideas
 🌊 About the Name
 
 The name comes from the Sanskrit word Jala which means water and Yana which means vehicle, meaning “watercraft”, combined with “layn”, inspired by the word “line” — an essential element in ship design.
+
 
 
 
