@@ -1,7 +1,7 @@
 
 <img src="assets/preview.JPG" alt="JALAYN Preview" width="800" align="center"/>
 
-<img src="assets/roadmap.JPEG" alt="Roadmap" width="800" align="center"/>
+<img src="assets/roadmap.jpeg" alt="Jalayn Roadmap" width="800" align="center"/>
 
 <img src="assets/logo.png" alt="JALAYN Logo" width="200" align="right"/>
 
@@ -100,6 +100,7 @@ hoping it can inspire others to explore, learn, and build upon open-source ideas
 🌊 About the Name
 
 The name comes from the Sanskrit word Jala which means water and Yana which means vehicle, meaning “watercraft”, combined with “layn”, inspired by the word “line” — an essential element in ship design.
+
 
 
 
