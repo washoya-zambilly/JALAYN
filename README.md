@@ -6,62 +6,61 @@
 <img src="assets/logo.png" alt="JALAYN Logo" width="200" align="right"/>
 
 
-# JALAYN 
-# Ver.0.1 
 
-**JALAYN** is a personal experimental ship design tool built with **Python** and **Tkinter**.  
+# JALAYN 
+# Ver.02 
+
+**JALAYN** is a personal experimental ship design tool built.  
 It provides a simple interface for creating and managing ship body plans — including **stations**, **waterlines**, and **centerlines** — for hull form visualization and analysis.
 
 This is a **personal learning project**, developed as part of my journey to improve my programming skills while combining them with my passion for **naval architecture**.  
-I aim to keep improving and expanding JALAYN over time, making it as useful and accessible as possible for anyone interested in ship design. 
-Selective assistance from AI tools was used to support code generation and problem solving.
+I aim to keep improving and expanding JALAYN over time, making it as useful and accessible as possible for anyone interested in ship design.
 
 
 
 
 
-## 🧭 Features
+## 🧭 Features Ver0.2 (UI/UX & 3D Improvement will be released in Ver0.3)
 
-- Interactive 2D body plan canvas using Tkinter  
-- Support for **stations**, **waterlines**, and **centerline** geometry  
-- CSV-based project loading and saving  
-- Undo / Redo system for curve editing  
-- Ship dimension editor (Lpp, Bmax, Draft)  
-- Organized modular architecture (`core/` and `ui/` separation)
+- Lines interpolation improvement
+- Isometric View Pan & Drag
+- 3D Preview using vispy
+- Hide & Show Station
+- Station coordinate editing using station list table
+- .json save file
 
 
 
 ## 📂 Project Structure
-```
 Jalayn/
-│
 ├── main.py
 ├── splash_screen.py
-│
+├── __init__.py
 ├── core/
-│ ├── init.py
-│ ├── bodyplan_app.py
-│ ├── state_manager.py
+│   ├── __init__.py
+│   ├── bodyplan_app.py
+│   ├── state_manager.py
+│   ├── nurbs.py
+│   ├── nurbs_curve.py
+│   ├── geometry_nurbs.py
+│   ├── viewer3d2.py
 │
 ├── ui/
-│ ├── init.py
-│ ├── draw_canvas.py
-│ ├── events.py
-│ ├── menu_bar.py
+│   ├── __init__.py
+│   ├── bodyplan_ui.py
+│   ├── draw_canvas.py
+│   ├── events.py
+│   ├── menu_bar.py
 │
-├── assets/
-│ ├── logo.png
-│ ├── sample.csv
-│ ├── splash.png
-│ ├── preview.jpg
-│ ├── roadmap.jpeg
+├── assets/ 
+│   ├── logo.png
+│   ├── sample.csv
+│   ├── splash.png
+│   ├── preview.jpg            
 │
 ├── README.md
 ├── requirements.txt
 └── LICENSE
-```
-
-
 
 
 ## 🚀 Run the Application
@@ -74,6 +73,9 @@ python main.py
 All dependencies are listed in requirements.txt, but the main ones are:
 - tkinter
 - ttk
+- vispy
+- scipy
+- numpy
 - math, csv, copy, collections (standard Python libraries)
 
 
@@ -99,17 +101,4 @@ hoping it can inspire others to explore, learn, and build upon open-source ideas
 
 
 🌊 About the Name
-
-The name comes from the Sanskrit word Jala which means water and Yana which means vehicle, meaning “watercraft”, combined with “layn”, inspired by the word “line” — an essential element in ship design.
-
-
-
-
-
-
-
-
-
-
-
-
+The name comes from the Sanskrit word Jalayana, meaning “watercraft”, combined with “layn”, inspired by the word “line” — an essential element in ship design.
