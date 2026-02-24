@@ -1,0 +1,9 @@
+# Core dependencies for JALAYN 
+
+# Tkinter is included with Python by default, 
+# but listed here for clarity when setting up the environment.
+
+tk
+numpy
+scipy
+vispy

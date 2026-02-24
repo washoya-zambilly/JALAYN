@@ -1,0 +1,30 @@
+Jalayn/
+│
+├── main.py
+├── splash_screen.py
+├── __init__.py
+├── core/
+│   ├── __init__.py
+│   ├── bodyplan_app.py
+│   ├── state_manager.py
+│   ├── nurbs.py
+│   ├── nurbs_curve.py
+│   ├── geometry_nurbs.py
+│   ├── viewer3d2.py
+│
+├── ui/
+│   ├── __init__.py
+│   ├── bodyplan_ui.py
+│   ├── draw_canvas.py
+│   ├── events.py
+│   ├── menu_bar.py
+│
+├── assets/ 
+│   ├── logo.png
+│   ├── sample.csv
+│   ├── splash.png
+│   ├── preview.jpg            
+│
+├── README.md
+├── requirements.txt
+└── LICENSE

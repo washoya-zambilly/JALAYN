@@ -1,0 +1,138 @@
+type,name,axis_value,y,z
+station,AP,0.000,0.030,2.119
+station,AP,0.000,0.586,2.284
+station,AP,0.000,0.917,2.585
+station,AP,0.000,1.052,3.080
+station,AP,0.000,1.037,3.576
+station,ST1,2.000,0.011,1.705
+station,ST1,2.000,0.700,1.874
+station,ST1,2.000,1.152,2.280
+station,ST1,2.000,1.502,2.958
+station,ST1,2.000,1.456,3.601
+station,ST2,4.000,0.023,1.264
+station,ST2,4.000,0.553,1.389
+station,ST2,4.000,1.343,1.942
+station,ST2,4.000,1.648,2.574
+station,ST2,4.000,1.750,3.003
+station,ST2,4.000,1.739,3.601
+station,ST3,6.000,-0.011,0.835
+station,ST3,6.000,0.519,1.027
+station,ST3,6.000,1.050,1.321
+station,ST3,6.000,1.468,1.671
+station,ST3,6.000,1.863,2.337
+station,ST3,6.000,2.032,2.868
+station,ST3,6.000,2.032,3.545
+station,ST4,8.000,-0.011,0.373
+station,ST4,8.000,0.700,0.598
+station,ST4,8.000,1.343,1.050
+station,ST4,8.000,1.818,1.468
+station,ST4,8.000,2.066,1.874
+station,ST4,8.000,2.235,2.664
+station,ST4,8.000,2.292,3.556
+station,ST5,10.000,-0.009,0.000
+station,ST5,10.000,0.818,0.109
+station,ST5,10.000,1.840,0.813
+station,ST5,10.000,2.382,1.693
+station,ST5,10.000,2.524,2.990
+station,ST5,10.000,2.479,3.516
+station,ST6,12.000,-0.021,0.174
+station,ST6,12.000,0.801,0.411
+station,ST6,12.000,1.476,0.797
+station,ST6,12.000,2.001,1.344
+station,ST6,12.000,2.258,2.012
+station,ST6,12.000,2.366,2.765
+station,ST6,12.000,2.383,3.512
+station,ST7,14.000,-0.017,0.611
+station,ST7,14.000,0.382,0.712
+station,ST7,14.000,0.908,0.975
+station,ST7,14.000,1.323,1.264
+station,ST7,14.000,1.798,1.730
+station,ST7,14.000,2.070,2.375
+station,ST7,14.000,2.174,3.200
+station,ST7,14.000,2.163,3.554
+station,ST8,16.000,-0.017,1.069
+station,ST8,16.000,0.429,1.176
+station,ST8,16.000,0.765,1.353
+station,ST8,16.000,1.306,1.739
+station,ST8,16.000,1.642,2.174
+station,ST8,16.000,1.819,2.603
+station,ST8,16.000,1.913,3.144
+station,ST8,16.000,1.903,3.573
+station,ST9,18.000,-0.014,1.472
+station,ST9,18.000,0.329,1.577
+station,ST9,18.000,0.638,1.710
+station,ST9,18.000,1.009,1.907
+station,ST9,18.000,1.234,2.173
+station,ST9,18.000,1.500,2.580
+station,ST9,18.000,1.619,3.098
+station,ST9,18.000,1.591,3.561
+station,FP,20.000,-0.028,1.886
+station,FP,20.000,0.280,1.963
+station,FP,20.000,0.687,2.131
+station,FP,20.000,1.002,2.397
+station,FP,20.000,1.199,2.776
+station,FP,20.000,1.248,3.225
+station,FP,20.000,1.241,3.603
+waterline,WL z=3.000,3.000,0.000,1.030
+waterline,WL z=3.000,3.000,2.000,1.499
+waterline,WL z=3.000,3.000,4.000,1.749
+waterline,WL z=3.000,3.000,6.000,2.032
+waterline,WL z=3.000,3.000,8.000,2.256
+waterline,WL z=3.000,3.000,10.000,2.523
+waterline,WL z=3.000,3.000,12.000,2.372
+waterline,WL z=3.000,3.000,14.000,2.149
+waterline,WL z=3.000,3.000,16.000,1.888
+waterline,WL z=3.000,3.000,18.000,1.597
+waterline,WL z=3.000,3.000,20.000,1.223
+waterline,WL z=2.500,2.500,0.000,0.824
+waterline,WL z=2.500,2.500,2.000,1.266
+waterline,WL z=2.500,2.500,4.000,1.612
+waterline,WL z=2.500,2.500,6.000,1.915
+waterline,WL z=2.500,2.500,8.000,2.200
+waterline,WL z=2.500,2.500,10.000,2.470
+waterline,WL z=2.500,2.500,12.000,2.328
+waterline,WL z=2.500,2.500,14.000,2.085
+waterline,WL z=2.500,2.500,16.000,1.777
+waterline,WL z=2.500,2.500,18.000,1.448
+waterline,WL z=2.500,2.500,20.000,1.056
+waterline,WL z=2.000,2.000,0.016,0.000
+waterline,WL z=2.000,2.000,2.000,0.840
+waterline,WL z=2.000,2.000,4.000,1.371
+waterline,WL z=2.000,2.000,6.000,1.663
+waterline,WL z=2.000,2.000,8.000,2.093
+waterline,WL z=2.000,2.000,10.000,2.416
+waterline,WL z=2.000,2.000,12.000,2.253
+waterline,WL z=2.000,2.000,14.000,1.912
+waterline,WL z=2.000,2.000,16.000,1.508
+waterline,WL z=2.000,2.000,18.000,1.088
+waterline,WL z=2.000,2.000,20.000,0.370
+waterline,WL z=1.500,1.500,2.398,0.000
+waterline,WL z=1.500,1.500,4.000,0.712
+waterline,WL z=1.500,1.500,6.000,1.264
+waterline,WL z=1.500,1.500,8.000,1.838
+waterline,WL z=1.500,1.500,10.000,2.263
+waterline,WL z=1.500,1.500,12.000,2.061
+waterline,WL z=1.500,1.500,14.000,1.564
+waterline,WL z=1.500,1.500,16.000,0.971
+waterline,WL z=1.500,1.500,18.000,0.077
+waterline,WL z=1.000,1.000,4.805,0.000
+waterline,WL z=1.000,1.000,6.000,0.444
+waterline,WL z=1.000,1.000,8.000,1.272
+waterline,WL z=1.000,1.000,10.000,1.955
+waterline,WL z=1.000,1.000,12.000,1.671
+waterline,WL z=1.000,1.000,14.000,0.943
+waterline,WL z=0.500,0.500,6.719,0.000
+waterline,WL z=0.500,0.500,8.000,0.390
+waterline,WL z=0.500,0.500,10.000,1.386
+waterline,WL z=0.500,0.500,12.000,0.957
+centerline,Buttock Y=0,-0.024,0.000,2.009
+centerline,Buttock Y=0,2.033,0.000,1.573
+centerline,Buttock Y=0,3.969,0.000,1.186
+centerline,Buttock Y=0,5.929,0.000,0.750
+centerline,Buttock Y=0,7.891,0.000,0.129
+centerline,Buttock Y=0,9.995,0.000,-0.121
+centerline,Buttock Y=0,12.027,0.000,0.024
+centerline,Buttock Y=0,14.012,0.000,0.460
+centerline,Buttock Y=0,15.976,0.000,0.805
+centerline,Buttock Y=0,18.038,0.000,1.288
+centerline,Buttock Y=0,20.003,0.000,1.739
