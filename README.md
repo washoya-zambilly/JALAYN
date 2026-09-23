@@ -1,7 +1,7 @@
 
 <img src="assets/preview.png" alt="JALAYN Preview" width="800" align="center"/>
 
-<img src="assets/export.jpeg" alt="Jalayn Roadmap" width="800" align="center"/>
+<img src="assets/export.png" alt="Jalayn Preview" width="800" align="center"/>
 
 
 
