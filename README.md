@@ -9,7 +9,7 @@
 # Ver.03 
 
 **JALAYN** is a personal experimental ship design tool built with python.
-It provides a simple interface for creating and managing ship body plans — including **stations**, **waterlines**, and **centerlines** — for hull form visualization and analysis.
+It provides a simple interface for creating and managing ship body plans — including **stations**, **waterlines**, and **buttocklines** — for hull form visualization and analysis.
 
 This is a **personal learning project**, developed as part of my journey to improve my programming skills while combining them with my passion for **naval architecture**.  
 I aim to keep improving and expanding JALAYN over time, making it as useful and accessible as possible for anyone interested in ship design.
