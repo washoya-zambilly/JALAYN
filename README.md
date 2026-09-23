@@ -37,13 +37,13 @@ python training1.py
 
 🧩 Dependencies
 All dependencies are listed in requirements.txt, but the main ones are:
-PySide6>=6.5.0
-numpy>=1.24.0
-scipy>=1.10.0
-pyvista>=0.40.0
-pyqtgraph>=0.13.0
-geomdl>=5.3.0
-pythonocc-core>=7.7.0
+- PySide6>=6.5.0
+- numpy>=1.24.0
+- scipy>=1.10.0
+- pyvista>=0.40.0
+- pyqtgraph>=0.13.0
+- geomdl>=5.3.0
+- pythonocc-core>=7.7.0
 
 
 📜 License
