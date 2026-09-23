@@ -1,0 +1,32 @@
+Jalayn/
+│
+├── training1.py
+├── training1_holtrop.py
+├── training1_menubar.py
+├── training1_hydrostatic.py
+├── training1_main_dim.py
+├── training1_offset_table.py
+├── training1_transformation.py
+├── training1_visualizer.py
+├── training1_utils.py
+├── training1_state.py
+├── training1_help_window.py
+├── training1_export.py
+├── training1_export_3d.py
+├── training1_event.py
+├── training1_canvas.py
+│
+├── icon/ 
+│
+├── sample/ 
+│
+├── assets/ 
+│   ├── preview.png  
+│   ├── export.png 
+│   ├── jalayn0.3_simple_guide.pdf          
+│
+├── README.md
+├── structure.txt
+├── requirements.txt
+├── jalayn_logo.png
+└── LICENSE
